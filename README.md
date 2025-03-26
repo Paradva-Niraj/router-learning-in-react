@@ -1,3 +1,14 @@
+# 📌 React Router Project - Learning React Routing & React Router DOM
+Welcome to my React Router learning project! 🚀 In this project, I am exploring React Routing using react-router-dom. I created a simple site with multiple pages and implemented dynamic routing with a GitHub API integration.
+
+## 📖 What I Learned
+✅ How to set up React Router in a project
+✅ Creating nested routes with Outlet
+✅ Using NavLink for active navigation styles
+✅ Implementing loaders to fetch data before rendering
+✅ Fetching data from GitHub API and displaying user details
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
